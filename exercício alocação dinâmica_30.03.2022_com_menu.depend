@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649350505 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\exercícios\exercício alocação dinâmica_30.03.2022_com_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
